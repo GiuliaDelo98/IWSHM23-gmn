@@ -2,7 +2,7 @@ dm-sonnet==1.23
 protobuf==3.6.1
 matplotlib==3.5.3
 networkx==2.3
-numpy==1.16.4
+numpy==1.21.6
 tensorflow==1.14
 six==1.12
 ipykernel==6.15.1
